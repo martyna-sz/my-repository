@@ -26,3 +26,5 @@ max_point = 0
 best_student = max(exam_points.items(), key= lambda x: x[1])
 print(best_student)
 print("Hello")
+for i in range (1,100):
+    if i % 5 == 0:
